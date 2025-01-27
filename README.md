@@ -28,10 +28,6 @@ The project utilizes the following technologies:
 - Editor   : Jupiter notebook (recommended) or VisualStudio   
 - other libraries versions are there. Use that only otherwise errors might come in your local system.
 
-### Note
-- I have uploaded files of required requirements ( python version and mysql version) or <a href="https://drive.google.com/drive/folders/1xNZrCv-brEJmQ0ELoge_Q_57qGuJqEu4" target="_blank"><strong> Google Drive Link </strong></a>
-- I have included all python files as LiverTumorDetection Zip file. Extract the files in your PC.
-- Use same versions for libraries to or else you may face errors while running the program.
 
 ### Dataset Information:
 - We have used around 755 images for this project. ( images and mask images also for noising).
